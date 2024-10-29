@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
 ## 🌐 Link
-<a href="https://image-search-engine-dejvcodes.netlify.app/">Image Search App</a>
+<a href="https://image-search-app-dejvcodes.netlify.app/">Image Search App</a>
 
 ## License 🔐
 [MIT License](LICENSE) 
