@@ -12,7 +12,7 @@ const showMoreBtn = document.getElementById('show-more-btn');
 let keyword = '';
 let page = 0;
 
-// Async function searchImages()
+// Async function searchImages() 
 const searchImages = async () => {
     try {
         // Hodnota zadaná do inputu
