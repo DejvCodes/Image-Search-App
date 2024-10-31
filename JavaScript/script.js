@@ -72,7 +72,7 @@ const searchImages = async () => {
 searchForm.addEventListener('submit', (e) => {
     e.preventDefault(); // Zabrání aktualizování stránky
     page = 1;
-    searchImages()
+    searchImages();
 })
 
 // Po stisknutí showMoreBtn se navýší počet stránek (počet obrázků)
